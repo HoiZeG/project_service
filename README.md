@@ -8,5 +8,5 @@
 - S3Service для работы с реквестами и логикой отправки: https://github.com/HoiZeG/project_service/blob/phoenix-master-stream6/src/main/java/faang/school/projectservice/service/s3/S3ServiceImpl.java
 - ResourceService для обработки картинки, ее валидации и отправки в S3Service, здесь же реализована логика сжатия изображения, если оно выходит за указанные рамки: https://github.com/HoiZeG/project_service/blob/phoenix-master-stream6/src/main/java/faang/school/projectservice/service/resource/CoverOfProjectServiceImpl.java
 5) UnitTests(JUnit, Mockito):
-  5.1) Стажировка - https://github.com/HoiZeG/project_service/blob/phoenix-master-stream6/src/test/java/faang/school/projectservice/controller/InternshipControllerTest.java | https://github.com/HoiZeG/project_service/blob/phoenix-master-stream6/src/test/java/faang/school/projectservice/service/InternshipServiceImplTest.java;
-  5.2) Обложка проекта - https://github.com/HoiZeG/project_service/blob/phoenix-master-stream6/src/test/java/faang/school/projectservice/service/resource/CoverOfProjectServiceImplTest.java
+- Стажировка - https://github.com/HoiZeG/project_service/blob/phoenix-master-stream6/src/test/java/faang/school/projectservice/controller/InternshipControllerTest.java | https://github.com/HoiZeG/project_service/blob/phoenix-master-stream6/src/test/java/faang/school/projectservice/service/InternshipServiceImplTest.java;
+- Обложка проекта - https://github.com/HoiZeG/project_service/blob/phoenix-master-stream6/src/test/java/faang/school/projectservice/service/resource/CoverOfProjectServiceImplTest.java
